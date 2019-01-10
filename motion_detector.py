@@ -47,9 +47,9 @@ while True:
     resized_thresh=cv2.resize(thresh_frame,(500,300))
 
 
-    cv2.imshow("Gray Frame", resized_gray)
-    cv2.imshow("Delta Frame", resized_delta)
-    cv2.imshow("Threshold Frame", resized_thresh)
+    # cv2.imshow("Gray Frame", resized_gray)
+    # cv2.imshow("Delta Frame", resized_delta)
+    # cv2.imshow("Threshold Frame", resized_thresh)
     cv2.imshow("Color Frame", resized_frame)
 
 
