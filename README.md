@@ -6,8 +6,5 @@
 Frame Processing:
 ![video pricessing](img/screenshot_face.png)
 
-CSV Output:
-![timesheet](img/times_screenshot.png)
-
 Graph:
 ![graph](img/graph_screen.png)
